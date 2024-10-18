@@ -1,1 +1,2 @@
 # warmachine
+![logo](./logo.png)
